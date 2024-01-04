@@ -1,0 +1,1 @@
+Estes são alguns dos exercícios para apuração da lógica de programação que realizo diariamente, pretendo postar novos projetos semanalmente, e aumentando gradativamente a dificuldade.
